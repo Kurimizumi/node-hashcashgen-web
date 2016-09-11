@@ -29,8 +29,7 @@
     "node": "*"
   },
   "dependencies": {
-    "optimist": "~0.3.4",
-    "dish": "~0.1.2"
+    "optimist": "~0.3.4"
   },
   "bin": "./bin/generate.js"
 }
